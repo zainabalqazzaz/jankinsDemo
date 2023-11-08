@@ -26,6 +26,9 @@ public class LoginStep {
 		driver.manage().window().maximize();
 		driver.get(url);
 		Thread.sleep(2000);
+		
+		System.out.println("Test");
+		
 	}
 
 	@When("User enters username {string}")
