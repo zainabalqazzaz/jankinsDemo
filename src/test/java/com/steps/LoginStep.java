@@ -28,6 +28,7 @@ public class LoginStep {
 		Thread.sleep(2000);
 		
 
+		System.out.println("Test2");
 		System.out.println("Test");
 		
 	}
