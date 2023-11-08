@@ -27,6 +27,8 @@ public class LoginStep {
 		driver.get(url);
 		Thread.sleep(2000);
 		
+
+		System.out.println("Test");
 		System.out.println("Test");
 		
 	}
